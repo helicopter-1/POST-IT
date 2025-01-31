@@ -17,7 +17,7 @@ This app allows users to interact with the Ethereum blockchain, creating and man
 
 # trouble shooting
 
-Cant resolve ipfs-car/blockstore/memory when importing nft.storage?
+Can't resolve ipfs-car/blockstore/memory when importing nft.storage?
 
     -Go to node_modules/nft.storage directory.
     -Make sure you have ipfs-car/dist/esm/blockstore and ipfs-car/dist/esm/pack. If not, install ipfs-car with npm i ipfs-car. Copy ipfs-car/dist/esm to nft.storage/src.
